@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+#root {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    align-items: flex-start;
+}
+
+.rectangle {
+    background-color: lightblue;
+    border: 2px solid steelblue;
+    box-sizing: border-box;
+}
